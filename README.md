@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+WVU is the best!
